@@ -5,16 +5,14 @@
 
 ### Results and Analysis
 #### Comparitive Analysis for baseline algorithms with DQN 
-| First Header  | Second Header | First Header  | Second Header |
+| Model | Accuracy | Recall   | Precision |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Decision Tree  | 0.98 | 0.50 | 0.50 |
+| With DQN  | 0.33 | 0.28 | 0.34 |
+| Random Forest   | 0.99 | 0.50 | 0.50  |
+| With DQN   | 0.32 | 0.29 | 0.34  |
+| Naive Bayes  | 0.99 | 0.75 | 0.67  |
+| With DQN   | 0.31 | 0.28 | 0.34  |
 
 
 ### Designed using : 
